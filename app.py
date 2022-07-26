@@ -7,7 +7,7 @@ import plotly
 
 # Keep this out of source code repository - save in a file or a database
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'Mickey': 'Mouse', 'Donald': 'Duck'
+    'Machine': 'Learning', 'Donald': 'Duck'
 }
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
